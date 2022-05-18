@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-demo-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-18T11:52:08.869764706+01:00"
+    description: A Helm chart for Kubernetes
+    digest: aa9bb67cbfe8ec0c9576972425fd440118d8d6d13a0ea3562a72da98a822a604
+    name: my-demo-chart
+    type: application
+    urls:
+    - https://github.com/Ucheyo/my-repository/helm-chart-sources/my-demo-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-18T11:52:08.868659506+01:00"
