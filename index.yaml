@@ -9,6 +9,6 @@ entries:
     name: my-demo-chart
     type: application
     urls:
-    - https://github.com/Ucheyo/my-repository/helm-chart-sources/my-demo-chart-0.1.0.tgz
+    -https://ucheyo.github.io/my-repository/helm-chart-sources/my-demo-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-05-18T11:52:08.868659506+01:00"
